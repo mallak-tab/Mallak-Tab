@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hi, I'm Mallak Tabbouche 👋
+### Computer Science Student | Cybersecurity Enthusiast
 
 <!--
-**mallak-tab/Mallak-Tab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student based in France, interested in cybersecurity, network security and software development.
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- **Programming:** C,C++, Python, PHP
+- **Cybersecurity:** Network Security, Firewall Configuration, Security Auditing
+- **Networking:** Cisco Packet Tracer, VLANs, TCP/IP
+- **Operating Systems:** Linux, Bash
+- **Databases:** SQL, MySQL
+- **Tools:** Git, GitHub, VS Code
+
+
+## 🚀 Featured Projects
+### 1. Network Security Lab
+- Designed and configured a network using Cisco Packet Tracer.
+- Implemented VLAN segmentation.
+- Configured network security policies.
+- Tested communication restrictions between network segments.
+
+### 2. Linux System Audit
+- Developed Bash scripts for system auditing.
+- Analyzed users, permissions, processes and open ports.
+- Generated security reports.
+
+### 3. PHP & MySQL Management System
+- Developed a database-driven application.
+- Implemented CRUD operations.
+- Worked with PHP and MySQL.
+
+## 📚 Currently Learning
+
+- Cybersecurity fundamentals
+- Data Structures & Algorithms
+- Linux System Administration
+- Network Security
+- Python Programming
+
+## 🌍 Languages
+
+- Arabic
+- French
+- English
+
+## 🤝 Connect With Me
+
+- LinkedIn:https://www.linkedin.com/in/mallak-tabbouche-47196943a/
+- GitHub: https://github.com/Mallak-Tab
+
+---
+
+⭐ *Always learning, building and exploring new technologies.*
+
+
 -->
